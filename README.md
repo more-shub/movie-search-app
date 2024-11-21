@@ -47,6 +47,7 @@ Backend
     cd backend
 
 Start the server:
+
     npm start
 
 The backend will run on http://localhost:5000 (or another port if configured).
