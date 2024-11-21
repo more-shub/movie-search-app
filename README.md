@@ -30,11 +30,15 @@ This is a full-stack movie search web application that allows users to search fo
    cd movie-search-app
 
   Install dependencies for the backend:
-   cd backend
-   npm install
+   
+     cd backend
+   
+    npm install
 
   Install dependencies for the frontend:
+    
     cd ../frontend
+    
     npm install
 
 Backend
